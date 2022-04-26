@@ -1,0 +1,1 @@
+you can put these codes into your keybindings.json to access some shortcuts.
